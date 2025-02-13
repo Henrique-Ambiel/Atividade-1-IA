@@ -5,12 +5,12 @@ Este repositório contém um projeto desenvolvido na Unity 🎮 utilizando C# �
 O projeto possui duas cenas, ambas com o mesmo conceito, mas aplicadas a situações diferentes.
 
 ## 🚀 Tecnologias Utilizadas
-🎮 Unity6 (versão utilizada no desenvolvimento)
-💻 Linguagem: C#
-🔦 Raycasting para detecção de obstáculos
+- 🎮 Unity6 (versão utilizada no desenvolvimento)
+- 💻 Linguagem: C#
+- 🔦 Raycasting para detecção de obstáculos
 ## ⚙️ Como Funciona
-1️⃣ O NPC se movimenta dentro de um trecho limitado.
-2️⃣ Um Raycast 🔦 é utilizado para detectar colisões.
-3️⃣ Ao identificar um obstáculo, o NPC realiza um flip 🔄 e inverte sua direção.
+- 1️⃣ O NPC se movimenta dentro de um trecho limitado.
+- 2️⃣ Um Raycast 🔦 é utilizado para detectar colisões.
+- 3️⃣ Ao identificar um obstáculo, o NPC realiza um flip 🔄 e inverte sua direção.
 
 Este projeto faz parte das atividades do curso de Jogos Digitais da PUC Campinas 🎓.
